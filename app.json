@@ -11,6 +11,14 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "La aplicación necesita permisos para acceder a tus fotos."
+        }
+      ]
+    ],
     "updates": {
       "fallbackToCacheTimeout": 0
     },
