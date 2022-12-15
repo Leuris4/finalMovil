@@ -8,7 +8,7 @@ export default function AcercaDe() {
         <View style={styles.box}>
             <Image
                 style={styles.foto}
-                source={require('./sources/img/Yo.png')}
+                source={require('./sources/img/Yo.jpg')}
             />
             <Text style={styles.nombre}>Leuris Joel Morel Nuñez{"\n"}2018-6681</Text>
             
